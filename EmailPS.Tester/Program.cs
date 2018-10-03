@@ -9,8 +9,6 @@ using EmailPS.Receiver;
 using EmailPS.Sender;
 
 namespace EmailPS.Tester {
-    // email: ggggl0238@gmail.com
-    // pass: 1qaz!1234
 
     public class Program {
         static void Main(string[] args) {
